@@ -1,7 +1,22 @@
-### Hi there 👋
+<h1>Hi, I'm omar! <br/>
 
-<!--
-**omarcap822/omarcap822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 cyber secruity Projects:</h2>
+
+- <b>Certifications
+  - Google Techinical Support Fundamentals
+   
+- <b> Projects
+ 
+
+<h2>  
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
